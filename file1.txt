@@ -8,3 +8,11 @@ black
 white
 grey
 brown
+aqua
+cyan
+mauve
+pink
+indigo
+grey
+silver
+gold
